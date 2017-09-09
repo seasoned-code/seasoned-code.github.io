@@ -39,7 +39,7 @@
 }
 
 // Make room for larger header by extending margin below title
-.index #sidebar {
+/*.index #sidebar {
   padding-bottom: calc(#{$section-spacing} + #{$padding-v});
 }
 
@@ -47,6 +47,7 @@
 .home.index #sidebar {
   padding-bottom: $section-spacing;
 }
+*/
 
 // Undo for larger screens
 @media (min-width: $large-breakpoint) {
@@ -66,7 +67,8 @@
     }
   }
 
+  /*
   .index #sidebar {
     padding-bottom: $section-spacing;
-  }
+  }*/
 }

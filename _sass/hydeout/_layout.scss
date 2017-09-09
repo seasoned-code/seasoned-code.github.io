@@ -23,7 +23,7 @@
 */
 
 body {
-  color: rgba(255,255,255,.75);
+  color: rgba(13,13,13,.75);
   background-color: $sidebar-bg-color;
   background-image: linear-gradient(
     to bottom,
@@ -43,13 +43,18 @@ body {
     font-family: "Abril Fatface", serif;
     font-weight: normal;
     font-size: $large-font-size;
-    color: rgba(255,255,255,.75);
+    color: rgba(13,13,13,.75);
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
     a {
       color: inherit;
-      &:hover { color: white; }
+      &:hover { color: black; }
+    }
+
+    .logo {
+      margin: 0 auto;
+      display: none;
     }
 
     .back-arrow { margin-right: 0.5rem; }
@@ -95,7 +100,7 @@ body {
           $section-spacing;
 
   h1, h2 {
-    color: white;
+    color: rgba(13,13,13,.75);
 
     &:last-child {
       margin-bottom: 0;
@@ -115,8 +120,8 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 3.25rem;
-    color: white;
+    font-size: 2.25rem;
+    color: #0d0d0d;
   }
 
   // Show secondary nav content + lead
@@ -162,11 +167,14 @@ body {
   }
 
   #sidebar {
+    padding: 0 2rem 0 2rem; /*$section-spacing;*/
+    
     .site-title {
-      font-size: 3.25rem;
+      font-size: 2.25rem;
 
-      a { color: white; }
+      a { color: #0d0d0d; }
       .back-arrow { display: none; }
+      .logo { display: block; }
     }
 
     p.lead, header ~ * {
@@ -178,7 +186,7 @@ body {
     }
   }
 
-  .index #sidebar { margin-bottom: 0; }
+  /*.index #sidebar { margin-bottom: 0; }*/
 
   // Make entire container background white to contrast against sidebar
   .container {
@@ -212,14 +220,14 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: #fff;
+  color: #0d0d0d;
 
   svg {
-    fill: rgba(255, 255, 255, 0.85);
+    fill: rgba(13, 13, 13, 0.85);
   }
 
   &:hover, &:focus, &.active {
-    svg { fill: #fff; }
+    svg { fill: #0d0d0d; }
   }
 
   &:hover, &:focus {
@@ -272,7 +280,7 @@ body {
   Set $sidebar-stick variable to affix sidebar contents to the
   bottom of the sidebar in tablets and up.
 ----------------------------------------------------------- */
-
+/*
 @if $sidebar-sticky {
   @media (min-width: $large-breakpoint) {
     body {
@@ -280,7 +288,7 @@ body {
     }
   }
 }
-
+*/
 
 /* -----------------------------------------------------------
   Reverse layout
