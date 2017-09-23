@@ -42,6 +42,7 @@
     </a>
   {% endif %}
 
+  {% comment %}
   {% if search_page %}
     <a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
@@ -50,6 +51,7 @@
       {% include svg/search.svg %}
     </a>
   {% endif %}
+  {% endcomment %}
 
   {% include custom-icon-links.html %}
 </nav>

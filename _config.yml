@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Seasoned Code
 tagline:          'Software with a little spice'
-description:      'Software development, games and some home cooking'
+description:      'Software development, some home cooking and everything in between'
 url:              https://seasoned-code.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
