@@ -11,7 +11,7 @@ Static website engines are bit of a craze for the last few years. Many are aware
 
 ### What a minute?
 
-Why am I talking about GitHub Pages and not what the title of this post is about? AHH! Right, something that I failed to mention is that GitHub Pages has a great bargain, you get all of the above. However, <a href="https://gist.github.com/cvan/8630f847f579f90e0c014dc5199c337b" target="_blank">unless you proxy your website through something such as "Cloudflare"</a> there will be no support for SSL/TLS, in fact this solution is not even true security!
+Why am I talking about GitHub Pages and not what the title of this post is about? AHH! Right, something that I failed to mention is that GitHub Pages has a great bargain, you get all of the above. However, <a href="https://gist.github.com/cvan/8630f847f579f90e0c014dc5199c337b" target="_blank">unless you proxy your custom domain through something such as "Cloudflare"</a> there will be no support for SSL/TLS, in fact this solution is not even true security!
 
 ### GitLab Pages
 
