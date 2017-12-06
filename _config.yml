@@ -8,6 +8,7 @@ tagline:          'Software with a little spice'
 description:      'Software development, some home cooking and everything in between'
 url:              https://seasoned-code.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
+google_analytics: 'UA-110802329-1'
 
 author:
   name:           'Gregory A. Owen'
