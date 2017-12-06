@@ -28,7 +28,7 @@ excerpt_separator:  <!--more-->
 4. Use sauce on desired pasta of choice.
 
 ### Inspired by
-I would like to give some credit where credit is due! I started off with this <a href="https://cookieandkate.com/2016/vegan-spaghetti-alla-puttanesca/">link</a> for inspiration, but overall the recipe I ended up with is a bit different.
+I would like to give some credit where credit is due! I started off with this <a href="https://cookieandkate.com/2016/vegan-spaghetti-alla-puttanesca/" target="_blank">link</a> for inspiration, but overall the recipe I ended up with is a bit different.
 
 
 ### Closing
