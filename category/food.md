@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: category-posts
 title: Food
 category: food
 ---
