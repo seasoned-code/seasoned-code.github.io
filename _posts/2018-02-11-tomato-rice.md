@@ -9,17 +9,17 @@ excerpt_separator:  <!--more-->
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/jWYUV"><a href="//imgur.com/a/jWYUV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Ingredients
-* 2/3 cup olive oil
-* 2 medium onions (sliced)
-* 1 tsp fresh ginger (finely chopped)
-* 1 tsp crushed garlic (about 2 cloves if done by hand)
-* 1/2 tsp ground cumin
-* 1/2 tsp chili powder
-* 1 tsp salt
+* 2 tablespoon olive oil
+* 1 onion (sliced)
+* 1 teaspoon fresh ginger (finely chopped)
+* 1 teaspoon crushed garlic (about 2 cloves if done by hand)
+* 1/2 teaspoon ground cumin
+* 1/2 teaspoon chili powder
+* 1 teaspoon salt
 * 1 15oz can chickpeas (drained)
 * a few shakes of mustard seeds
 * 3 roma tomatoes (quartered)
-* 2 1/2 cups jasmine rice
+* 1 cup jasmine rice
 * 2 1/2 cups water
 * pepper to taste
 * Garnish
@@ -36,6 +36,8 @@ excerpt_separator:  <!--more-->
 There is no website for this recipe since it came from a book! The recipe is called 'Tomato Rice' on page 190 from [Ultimate Vegetarian Recipes, Dempsey Parr Book published 2000, Copyright (C) Parragon 1999], mind my poor man's citation!
 
 ### Closing
+_Edit: 2018.08.26: I grossly overstated the olive oil and rice, I realized this after referring to it once_
+
 I had to make a number of substitutions with the recipe since I did not have all of the ingredients. For one, cumin instead of turmeric and I added mustard seeds as well since it called for onion seeds (I know not much of a similarity). Also, original recipe called for canned tomatoes and basmati rice, and I used fresh tomatoes and jasmine rice, respectfully. Overall, I felt it turned out really well. I used half the amount of chili powder, but I would recommend using the suggested of 1 tsp in the future.
 
 Enjoy!
