@@ -8,7 +8,7 @@
     {% comment %}
     <a id="github-download-link"
        class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
+       href="{{ site.github.repo }}/archive/v{{ site.github.version }}.zip">
       {% include svg/download.svg %}
     </a>
     {% endcomment %}
@@ -16,7 +16,7 @@
   
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/feed.xml">
+     href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
     {% include svg/feed.svg %}
   </a>
 
@@ -46,7 +46,7 @@
   {% if search_page %}
     <a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
-       title="Search" aria-label="Tags"
+       title="Search" aria-label="Search"
        href="{{ site.baseurl }}{{ search_page.url }}">
       {% include svg/search.svg %}
     </a>
