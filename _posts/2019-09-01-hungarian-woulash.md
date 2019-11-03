@@ -16,6 +16,7 @@ excerpt_separator:  <!--more-->
 * 1/2 teaspoon basil
 * 3-4 tomatoes (diced)
 * 1-2 bell peppers (diced)
+* 1 tablespoon soy sauce
 * 2 tablespoons tomato paste
 * 1 hungarian wax pepper (finely chopped, with seeds)
 * 2 cups vegetable broth
@@ -26,7 +27,7 @@ excerpt_separator:  <!--more-->
 
 ### Instructions
 1. In a large pot, heat oil on medium-high. When warm, add onions, garlic, oregano, and basil. Sauté for 3-4 minutes.
-2. Add the tomatoes, bell peppers, paste, and hungarian wax pepper. Cook for an additional 10 minutes.
+2. Add the tomatoes, bell peppers, soy sauce, paste, and hungarian wax pepper. Cook for an additional 10 minutes.
 3. Add broth, salt, peppercorn, textured-vegetable-protein (tvp) and beans. Bring to a boil, then low heat for an additional 10 minutes.
 4. Serve, if you are lucky, this will be rather spicy!
 
