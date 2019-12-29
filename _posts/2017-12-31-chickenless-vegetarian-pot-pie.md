@@ -25,7 +25,7 @@ A family favourite. This has much of the flavour of a traditional Chicken Pot Pi
 * 1/4 teaspoon garlic powder
 * 1 3/4 cups vegetable broth
 * 2/3 cup milk (whole) 
-* 1 15oz can of Great Northern Beans
+* 1 15oz can of Great Northern Beans (drained and rinsed)
 + Two 9-inch <a href="/food/2019/12/01/pie-crusts.html" target="_blank">pie crusts</a> (my recipe excluded sugar to maintain a savory flavour)
 
 ### Instructions
