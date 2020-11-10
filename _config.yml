@@ -15,7 +15,10 @@ author:
   url:            https://twitter.com/seasoned_code
 
 mermaid:
-  src: 'assets/script/mermaid.8.7.0.min.js'
+  src: '/assets/script/mermaid.8.7.0.min.js'
+
+gitgraph:
+  src: '/assets/script/gitgraph.js'
 
 paginate:         5
 # paginate_path:    '/page:num'
