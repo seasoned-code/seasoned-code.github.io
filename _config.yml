@@ -14,6 +14,9 @@ author:
   name:           'Gregory A. Owen'
   url:            https://twitter.com/seasoned_code
 
+gitgraph:
+  src: '/assets/script/gitgraph.js'
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
